@@ -1,4 +1,3 @@
-from urllib.parse import uses_relative
 import serial
 import threading
 
